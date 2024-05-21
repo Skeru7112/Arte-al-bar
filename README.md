@@ -1,12 +1,10 @@
 # homer
+https://homer.open-lab.com/public/PRJ-7e205a0b-cc49-4d86-92a6-1716043866929	
 
 
-
-npm install -g browser-sync
-browser-sync
 
 
 ## Play Online
-<https://fem-modena.github.io/sabbie-stregoni/>
+ https://skeru7112.github.io/Mostra-al-pub
 
 
